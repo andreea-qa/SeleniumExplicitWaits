@@ -39,4 +39,4 @@ You can use the <a href = "https://www.lambdatest.com/capabilities-generator/"> 
 <h2> Execute the tests </h2>
 Run your tests and you will be able to see the results in the Dashboard:<br/><br/>
 
-<img width="1408" alt="test_results" src="https://user-images.githubusercontent.com/60468653/200383046-f0cffeb8-5adc-453d-a355-ee8b61e8b2e0.png">
+<img width="1408" alt="test_results" src="https://user-images.githubusercontent.com/60468653/205837389-fea9c8ac-184e-417e-9097-f7ca4ea25c0f.png">
